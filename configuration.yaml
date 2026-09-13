@@ -38,7 +38,7 @@ llm_clients:
     api_key: "local"
     vllm:
       model: "computer-vision-ai-lab/Qwen-3.6-27B-CobaltOsprey"
-      revision: "809d6f84782e7795fe71cd68e6a3e1f6051a6b9d"
+      revision: "d4cd4dbe8d5a42ef8d0622cd84199b928b8b88bd"
       gpu_ids: "0,1"
       tensor_parallel_size: 1
       data_parallel_size: 2
